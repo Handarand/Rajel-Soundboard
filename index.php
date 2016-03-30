@@ -1,6 +1,6 @@
 <?php
 	$mp3 = array();
-	$mp3directory = 'neil';
+	$mp3directory = 'Rajel-Soundboard';
 	
 	// build an array of MP3 files 
 	$directory = new DirectoryIterator($mp3directory);
